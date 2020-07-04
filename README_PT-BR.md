@@ -26,13 +26,13 @@ O **roadmap** é organizado em um quadro de projeto para dar uma noção de quã
 
 Cada item no **roadmap** é uma **issue**, com um rótulo que indica cada um dos seguintes:
 
-- Uma [**fase de lançamento**](#🎗️-fase-de-lançamento) que descreve a próxima fase esperada do item de **roadmap**. [Veja abaixo um guia para as fases de liberação](#🎗️-fase-de-lançamento).
+- Uma [**fase de lançamento**](#%EF%B8%8F-fase-de-lançamento) que descreve a próxima fase esperada do item de **roadmap**. [Veja abaixo um guia para as fases de liberação](#%EF%B8%8F-fase-de-lançamento).
 
-- Uma [**área de destaque**](#🎟️-áreas-de-recursos) que indica a área do recurso à qual o item pertence. [Para obter uma lista das áreas de recursos atuais, veja abaixo](#🎟️-áreas-de-recursos).
+- Uma [**área de destaque**](#%EF%B8%8F-áreas-de-recursos) que indica a área do recurso à qual o item pertence. [Para obter uma lista das áreas de recursos atuais, veja abaixo](#%EF%B8%8F-áreas-de-recursos).
 
-- Um [**recurso**](#🧩-recurso) que indica o recurso ou produto ao qual o item pertence. [Para obter uma lista dos recursos atuais, veja abaixo](#🧩-recurso).
+- Um [**recurso**](#-recurso) que indica o recurso ou produto ao qual o item pertence. [Para obter uma lista dos recursos atuais, veja abaixo](#-recurso).
 
-- Um ou mais rótulos de [**NFT Class**](#✨-classes-de-nft´s) que indicam em quais NFT´s esperamos que o recurso esteja disponível. [Para obter uma lista de NFT´s atuais, veja abaixo](#✨-classes-de-nft´s).
+- Um ou mais rótulos de [**NFT Class**](#-classes-de-nfts) que indicam em quais NFT´s esperamos que o recurso esteja disponível. [Para obter uma lista de NFT´s atuais, veja abaixo](#-classes-de-nfts).
 
 - Um ou mais **modelos de implantação** (ipfs, nuvem e/ou servidor). Onde não for declarado, os recursos geralmente sairão da nuvem primeiro e seguirão no ipfs e no GHAE no GA ou logo após.
 

@@ -28,9 +28,9 @@ GitHub Enterprise Server has major releases on a quarterly basis, and minor rele
 
 Every item on the roadmap is an issue, with a label that indicates each of the following:
 
-- A [**release phase**](#-release-phases) that describes the next expected phase of the roadmap item. [See below for a guide to release phases](#-release-phases).
+- A [**release phase**](#%EF%B8%8F-release-phases) that describes the next expected phase of the roadmap item. [See below for a guide to release phases](#%EF%B8%8F-release-phases).
 
-- A [**feature area**](#-feature-areas) that indicates the area of the product to which the item belongs. [For a list of current product areas, see below](#-feature-areas).
+- A [**feature area**](#%EF%B8%8F-feature-areas) that indicates the area of the product to which the item belongs. [For a list of current product areas, see below](#%EF%B8%8F-feature-areas).
 
 - A [**feature**](#-feature) that indicates the feature or product to which the item belongs. [For a list of current features, see below](#-feature).
 
