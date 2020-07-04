@@ -1,8 +1,8 @@
 # Código de conduta do contribuidor
 
-## Traduções
+## 🌐 Traduções
 
-[Inglês](./CODE_OF_CONDUCT.md)
+- [Inglês](./CODE_OF_CONDUCT.md)
 
 ---
 

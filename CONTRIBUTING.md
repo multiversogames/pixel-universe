@@ -5,9 +5,9 @@
 [style]: https://github.com/styleguide/ruby
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
-## Translations
+## 🌐 Translations
 
-[Portuguese (Brazil)](./CONTRIBUTING_PT-BR.md)
+- [Portuguese (Brazil)](./CONTRIBUTING_PT-BR.md)
 
 ---
 

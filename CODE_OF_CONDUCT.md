@@ -1,8 +1,8 @@
 # Contributor Covenant Code of Conduct
 
-## Translations
+## 🌐 Translations
 
-[Portuguese (Brazil)](./CODE_OF_CONDUCT_PT-BR.md)
+- [Portuguese (Brazil)](./CODE_OF_CONDUCT_PT-BR.md)
 
 ---
 

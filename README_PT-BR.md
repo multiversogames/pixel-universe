@@ -1,36 +1,42 @@
 # Universo Pixel
 
+## 🌐 Translations
+
+- [Inglês](./README.md)
+
+---
+
 🌄 Veja o [^1] [roadmap oficial público do projeto Universo Pixel](https://github.com/orgs/multiversogames/projects/2/views/1)[^1]
 
 ![descrição](./images/header-1.png)
 
 Queremos ser o mais transparentes possível por isso estamos utilizando o Github coomo plataforma de desenvolvimento e orientação.
 
-Nosso **roadmap** é onde você pode saber em quais recursos estamos trabalhando, em que estágio eles estão e quando esperamos trazê-los para você. Tem alguma dúvida ou comentário sobre itens no roteiro? Compartilhe seus comentários por meio das [discussões públicas de feedback do Universo Pixel](https://github.com/multiversogames/pixel-universe/discussions).
+Nosso **roadmap** é onde você pode saber em quais recursos estamos trabalhando, em que estágio eles estão e quando esperamos trazê-los para você. Tem alguma dúvida ou comentário sobre itens no **roadmap**? Compartilhe seus comentários por meio das [discussões públicas de feedback do Universo Pixel](https://github.com/multiversogames/pixel-universe/discussions).
 
-[^1]:Adotamos os mais recentes [recursos beta dos projetos do GitHub](https://github.com/features/issues) para o [roteiro público](https://github.com/orgs/multiversogames/projects/2/views/1).
+[^1]:Adotamos os mais recentes [recursos beta dos projetos do GitHub](https://github.com/features/issues) para o [roadmap público](https://github.com/orgs/multiversogames/projects/2/views/1).
 
-O espaço do roadmap é para comunicar o progresso do Universo Pixel. No momento, os problemas existentes são somente leitura e estamos bloqueando as conversas à medida que estamos começando agora. Os limites de interação também estão em vigor para garantir que os problemas *(issues)* sejam originados no GitHub. Estamos planejando utilizar o formato do roadmap em si e vemos potencial para nos envolvermos mais em discussões sobre o futuro do projeto e recursos do Universo Pixel. Se você tiver comentários sobre este repositório de roadmap, por exemplo, como os problemas são apresentados, informe-nos por meio dos [comentários gerais na aba de discussões do nosso repositório](https://github.com/multiversogames/pixel-universe/discussions/categories/general).
+O espaço do **roadmap** é para comunicar o progresso do Universo Pixel. No momento, as **issues** existentes são somente leitura e estamos bloqueando as conversas à medida que estamos começando agora. Os limites de interação também estão em vigor para garantir que as **issues** sejam originadas no GitHub. Estamos planejando utilizar o formato do **roadmap** em si e vemos potencial para nos envolvermos mais em discussões sobre o futuro do projeto e recursos do Universo Pixel. Se você tiver comentários sobre este repositório de **roadmap**, por exemplo, como as **issues** são organizadas, informe-nos por meio dos [comentários gerais na aba de discussões do nosso repositório](https://github.com/multiversogames/pixel-universe/discussions/categories/general).
 
 ## 🏁 Estágios do Roadmap
 
-O roteiro é organizado em um quadro de projeto para dar uma noção de quão longe cada item está no horizonte. Cada produto ou recurso é adicionado a uma coluna específica do quadro de projeto de acordo com o trimestre em que se espera que seja lançado em seguida. Certifique-se de ler a [isenção de responsabilidades](#isenção-de-responsabilidade) abaixo, pois o roteiro está sujeito a alterações, especialmente mais adiante na linha do tempo. Você também encontrará uma coluna **Exploratory**, que é usada em conjunto com os rótulos de fase de lançamento **in design** e **exploring** para quando nenhum período de tempo ainda estiver disponível.
+O **roadmap** é organizado em um quadro de projeto para dar uma noção de quão longe cada item está no horizonte. Cada produto ou recurso é adicionado a uma coluna específica do quadro de projeto de acordo com o trimestre em que se espera que seja lançado em seguida. Certifique-se de ler a [isenção de responsabilidades](#isenção-de-responsabilidade) abaixo, pois o **roadmap** está sujeito a alterações, especialmente mais adiante na linha do tempo. Você também encontrará uma coluna **Exploratory**, que é usada em conjunto com os rótulos de fase de lançamento **in design** e **exploring** para quando nenhum período de tempo ainda estiver disponível.
 
 ## 🗺️ Guia do roadmap
 
-Cada item no roadmap é um problema, com um rótulo que indica cada um dos seguintes:
+Cada item no **roadmap** é uma **issue**, com um rótulo que indica cada um dos seguintes:
 
-- Uma [**fase de lançamento**](#fase-de-lançamento) que descreve a próxima fase esperada do item de roadmap. [Veja abaixo um guia para as fases de liberação](#fase-de-lançamento).
+- Uma [**fase de lançamento**](#🎗️-fase-de-lançamento) que descreve a próxima fase esperada do item de **roadmap**. [Veja abaixo um guia para as fases de liberação](#🎗️-fase-de-lançamento).
 
-- Uma [**área de destaque**](#áreas-de-recursos) que indica a área do recurso à qual o item pertence. [Para obter uma lista das áreas de recursos atuais, veja abaixo](#áreas-de-recursos).
+- Uma [**área de destaque**](#🎟️-áreas-de-recursos) que indica a área do recurso à qual o item pertence. [Para obter uma lista das áreas de recursos atuais, veja abaixo](#🎟️-áreas-de-recursos).
 
-- Um [**recurso**](#recurso) que indica o recurso ou produto ao qual o item pertence. [Para obter uma lista dos recursos atuais, veja abaixo](#recurso).
+- Um [**recurso**](#🧩-recurso) que indica o recurso ou produto ao qual o item pertence. [Para obter uma lista dos recursos atuais, veja abaixo](#🧩-recurso).
 
-- Um ou mais rótulos de [**NFT Class**](#classes-de-nft) que indicam em quais NFT´s esperamos que o recurso esteja disponível. [Para obter uma lista de NFT´s atuais, veja abaixo](#classes-de-nft).
+- Um ou mais rótulos de [**NFT Class**](#✨-classes-de-nft´s) que indicam em quais NFT´s esperamos que o recurso esteja disponível. [Para obter uma lista de NFT´s atuais, veja abaixo](#✨-classes-de-nft´s).
 
 - Um ou mais **modelos de implantação** (ipfs, nuvem e/ou servidor). Onde não for declarado, os recursos geralmente sairão da nuvem primeiro e seguirão no ipfs e no GHAE no GA ou logo após.
 
-- Assim que um recurso for entregue, o rótulo **enviado** será aplicado ao problema do roteiro e o problema será encerrado com um comentário vinculado à postagem relevante do [changelog](https://github.com/multiversogames/pixel-universe/changelog/) ou dependendo da relevância em nosso [Twitter](https://twitter.com/pixeluniverse).
+- Assim que um recurso for entregue, o rótulo **shipped** será aplicado à **issue** do **roadmap** e a **issue** será encerrada com um comentário vinculado à postagem relevante do [changelog](https://github.com/multiversogames/pixel-universe/changelog/) ou dependendo da relevância em nosso [Twitter](https://twitter.com/pixeluniverse).
 
 ## 🎗️ Fase de Lançamento
 
@@ -45,7 +51,7 @@ Recursos em sua maioria completos e documentados. Cronograma e requisitos para G
 - **ga:** *Geralmente disponível para todos os clientes*\
 Pronto para uso em produção com SLA associado e obrigações de suporte técnico. Aproximadamente 1-2 trimestres do Beta.
 
-Alguns recursos ainda podem estar em fase exploratória e não possuem prazo disponível. Estes estão incluídos no roteiro apenas para feedback antecipado. Estes são marcados da seguinte forma:
+Alguns recursos ainda podem estar em fase exploratória e não possuem prazo disponível. Estes estão incluídos no **roadmap** apenas para feedback antecipado. Estes são marcados da seguinte forma:
 
 - **in design:**\
 Recurso em fase de descoberta. Decidimos construir esse recurso, mas ainda estamos descobrindo *como*.
@@ -99,4 +105,4 @@ A seguir está uma lista das nossas classes de NFT´s atuais:
 
 ## Isenção de responsabilidade
 
-Qualquer declaração neste repositório que não seja puramente histórica é considerada uma declaração prospectiva. As declarações prospectivas incluídas neste repositório são baseadas em informações disponíveis para o GitHub na data em que são feitas, e a Multiverso Games não assume nenhuma obrigação de atualizar quaisquer declarações prospectivas. O roadmap de produto prospectivo não representa um compromisso, garantia, obrigação ou promessa de entregar qualquer produto ou recurso, ou entregar qualquer produto e recurso em qualquer data específica, e destina-se a delinear os planos gerais de desenvolvimento. Os clientes não devem confiar neste roteiro para tomar qualquer decisão de compra.
+Qualquer declaração neste repositório que não seja puramente histórica é considerada uma declaração prospectiva. As declarações prospectivas incluídas neste repositório são baseadas em informações disponíveis para o GitHub na data em que são feitas, e a Multiverso Games não assume nenhuma obrigação de atualizar quaisquer declarações prospectivas. O **roadmap** de produto prospectivo não representa um compromisso, garantia, obrigação ou promessa de entregar qualquer produto ou recurso, ou entregar qualquer produto e recurso em qualquer data específica, e destina-se a delinear os planos gerais de desenvolvimento. Os clientes não devem confiar neste **roadmap** para tomar qualquer decisão de compra.
