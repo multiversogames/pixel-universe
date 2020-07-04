@@ -8,7 +8,7 @@
 
 🌄 View the [official Pixel Universe public product roadmap](https://github.com/orgs/multiversogames/projects/2/views/1)[^1]
 
-![descrição](./images/header-1.png)
+![description](./images/header-1.png)
 
 We want to be more transparent as possible so we are using Github as our development and guidance platform.
 
@@ -28,13 +28,13 @@ GitHub Enterprise Server has major releases on a quarterly basis, and minor rele
 
 Every item on the roadmap is an issue, with a label that indicates each of the following:
 
-- A [**release phase**](#🎗️-release-phases) that describes the next expected phase of the roadmap item. [See below for a guide to release phases](#🎗️-release-phases).
+- A [**release phase**](#-release-phases) that describes the next expected phase of the roadmap item. [See below for a guide to release phases](#-release-phases).
 
-- A [**feature area**](#🎟️-feature-areas) that indicates the area of the product to which the item belongs. [For a list of current product areas, see below](#🎟️-feature-areas).
+- A [**feature area**](#-feature-areas) that indicates the area of the product to which the item belongs. [For a list of current product areas, see below](#-feature-areas).
 
-- A [**feature**](#🧩-feature) that indicates the feature or product to which the item belongs. [For a list of current features, see below](#🧩-feature).
+- A [**feature**](#-feature) that indicates the feature or product to which the item belongs. [For a list of current features, see below](#-feature).
 
-- One or more [**NFT Class**](#✨-nft-class) labels that indicate which NFT Class we expect the feature to be available in. [For a list of current NFT Class, see below](#✨-nft-class).
+- One or more [**NFT Class**](#-nft-class) labels that indicate which NFT Class we expect the feature to be available in. [For a list of current NFT Class, see below](#-nft-class).
 
 - One or more **deployment models** (ipfs, cloud, and/or server). Where not stated, features will generally come out Cloud first, and follow on IPFS and GHAE at or soon after GA.
 
