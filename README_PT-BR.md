@@ -10,7 +10,7 @@
 
 ![descrição](./images/header-1.png)
 
-Queremos ser o mais transparentes possível por isso estamos utilizando o Github coomo plataforma de desenvolvimento e orientação.
+Queremos ser o mais transparentes possível, por isso estamos utilizando o Github como plataforma de desenvolvimento e orientação.
 
 Nosso **roadmap** é onde você pode saber em quais recursos estamos trabalhando, em que estágio eles estão e quando esperamos trazê-los para você. Tem alguma dúvida ou comentário sobre itens no **roadmap**? Compartilhe seus comentários por meio das [discussões públicas de feedback do Universo Pixel](https://github.com/multiversogames/pixel-universe/discussions).
 
@@ -32,7 +32,7 @@ Cada item no **roadmap** é uma **issue**, com um rótulo que indica cada um dos
 
 - Um [**recurso**](#-recurso) que indica o recurso ou produto ao qual o item pertence. [Para obter uma lista dos recursos atuais, veja abaixo](#-recurso).
 
-- Um ou mais rótulos de [**NFT Class**](#-classes-de-nfts) que indicam em quais NFT´s esperamos que o recurso esteja disponível. [Para obter uma lista de NFT´s atuais, veja abaixo](#-classes-de-nfts).
+- Um ou mais rótulos de [**Classes de NFT´s**](#-classes-de-nfts) que indicam em qual Classe NFT esperamos que o recurso esteja disponível. [Para obter uma lista com as Classes de NFT´s atuais, veja abaixo](#-classes-de-nfts).
 
 - Um ou mais **modelos de implantação** (ipfs, nuvem e/ou servidor). Onde não for declarado, os recursos geralmente sairão da nuvem primeiro e seguirão no ipfs e no GHAE no GA ou logo após.
 

@@ -1,4 +1,4 @@
-# Contruindo para o projeto
+# Contribuindo para o projeto
 
 [fork]: https://github.com/multiversogames/pixel-universe/fork
 [pr]: https://github.com/multiversogames/pixel-universe/compare
@@ -11,7 +11,7 @@
 
 ---
 
-Olá! Estamos muito felizes que você deseja de contribuir para este projeto. Sua ajuda é essencial para mantê-lo ótimo.
+Olá! Estamos muito felizes que você deseja contribuir para este projeto. Sua ajuda é essencial para mantê-lo ótimo.
 
 As contribuições para este projeto são [públicas](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) sob a [licença de código aberto do projeto](LICENSE).
 

@@ -8,7 +8,7 @@
 
 ## Nosso Compromisso
 
-No interesse de promover um ambiente aberto e acolhedor, nós, como contribuidores e mantenedores nos comprometemos a fazer a participação em nosso projeto e nossa comunidade uma experiência livre de assédio para todos, independentemente da idade, porte físico, tamanho, deficiência, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socio-econômico, nacionalidade, aparência, raça, religião ou identidade e orientação sexual.
+No interesse de promover um ambiente aberto e acolhedor, nós, como contribuidores e mantenedores nos comprometemos a fazer a participação em nosso projeto e nossa comunidade uma experiência livre de assédio para todos, independentemente da idade, porte físico, tamanho, deficiência, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status sócio-econômico, nacionalidade, aparência, raça, religião ou identidade e orientação sexual.
 
 ## Nossos padrões
 
@@ -37,13 +37,13 @@ Os mantenedores do projeto têm o direito e a responsabilidade de remover, edita
 
 ## Alcance
 
-Este Código de Conduta aplica-se tanto aos espaços do projeto quanto aos espaços públicos quando um indivíduo está representando o projeto ou sua comunidade. Exemplos de representar um projeto ou comunidade incluem o uso de um e-mail oficial do projeto, postando através de uma conta oficial de mídia social, ou agindo como um nomeado representante em um evento online ou offline. A representação de um projeto pode ser definidos e esclarecidos pelos mantenedores do projeto.
+Este Código de Conduta aplica-se tanto aos espaços do projeto quanto aos espaços públicos quando um indivíduo está representando o projeto ou sua comunidade. Exemplos de representar um projeto ou comunidade incluem o uso de um e-mail oficial do projeto, postando através de uma conta oficial de mídia social, ou agindo como um nomeado representante em um evento online ou offline. A representação de um projeto pode ser definida e esclarecida pelos mantenedores do projeto.
 
-## Repercurssão
+## Repercussão
 
 Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser relatados entrando em contato com a equipe do projeto em multiverso.games[@]protonmail.com. Todas as reclamações serão analisadas e investigadas e resultarão em uma resposta que for considerada necessária e adequada às circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator de um incidente. Mais detalhes de políticas de aplicação específicas podem ser postados separadamente.
 
-Os mantenedores do projeto que não seguem ou aplicam o Código de Conduta em boas fé podem enfrentar repercussões temporárias ou permanentes conforme determinado por outros membros da liderança do projeto.
+Os mantenedores do projeto que não seguem ou aplicam o Código de Conduta em boa  fé podem enfrentar repercussões temporárias ou permanentes conforme determinado por outros membros da liderança do projeto.
 
 ## Atribuição
 
